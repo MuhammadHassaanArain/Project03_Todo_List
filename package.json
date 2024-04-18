@@ -1,0 +1,20 @@
+{
+  "name": "shutuphassaan_project03_to-do-list",
+  "version": "1.0.0",
+  "description": "A tode list using typescript,node.js and inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassaan Arain",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.12.5",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
